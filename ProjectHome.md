@@ -1,0 +1,1 @@
+**A customizable calculator api written in java to evaluate/calculate any kind of rules or mathematical statement with functions and variables.**
